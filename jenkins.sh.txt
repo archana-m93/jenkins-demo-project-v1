@@ -4,3 +4,4 @@ echo "Jenkins Build Triggered Successfully"
 hostname
 pwd
 date
+echo"jenkins is sucesfully sent notification"
